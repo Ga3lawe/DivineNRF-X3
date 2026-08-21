@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="ChatGPT Image Aug 21, 2026, 04_31_02 AM" src="https://github.com/user-attachments/assets/af8d35b4-0bdd-407f-b6be-fe97594b946d" />
+<img width="1774" height="887" alt="icon" src="https://github.com/user-attachments/assets/af8d35b4-0bdd-407f-b6be-fe97594b946d" />
 
 # DivineNRF X3
 
